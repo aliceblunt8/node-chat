@@ -1,2 +1,2 @@
 # node-chat
-Real-time chat using Node.js and WebSockets
+Simple real-time chat using Node.js (Express), React and WebSockets
